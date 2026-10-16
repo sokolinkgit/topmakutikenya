@@ -11,13 +11,13 @@ Premium makuti thatch roofing for **hotels, bars, homes, swimming pools, restaur
 | Home | `index.html` | Captivating hero with **3 minimized slideshow windows** on the right, services, featured projects, process, testimonials |
 | Makuti Gallery | `gallery.html` | Filterable project grid, lightbox viewer, **Request Quotation** buttons → WhatsApp |
 | About | `about.html` | Short but powerful story, values, promise band |
-| Contacts | `contact.html` | Call/WhatsApp/email/location cards, Google Map embed, message form → WhatsApp |
+| Contacts | `contact.html` | Call/WhatsApp/location cards, Google Map embed, message form → WhatsApp |
 
 ## ✨ Features
 
 - 🎬 Auto-playing mini-window slideshows (hero)
 - 🖼️ Gallery filters + full lightbox with prev/next & keyboard nav
-- 💬 Quotation modal — details auto-fill a **WhatsApp message to 0733 246 274**
+- 💬 Quotation modal — details auto-fill a **WhatsApp message to 0724 057 052**
 - 📌 **Floating buttons**: WhatsApp quotation + direct call (every page)
 - 📍 Google Maps embed (PXHF+C7X, Nairobi)
 - 📱 Fully responsive + mobile menu, scroll reveals, animated counters
@@ -25,8 +25,7 @@ Premium makuti thatch roofing for **hotels, bars, homes, swimming pools, restaur
 
 ## 📞 Contacts
 
-- **Phone / WhatsApp:** 0733 246 274
-- **Email:** tuvaleonard46@gmail.com
+- **Phone / WhatsApp:** 0724 057 052
 - **Location:** PXHF+C7X, Nairobi, Kenya (serving countrywide)
 
 ## 🚀 Run locally

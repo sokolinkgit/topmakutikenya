@@ -4,7 +4,7 @@
 (function () {
   "use strict";
 
-  var WA_NUMBER = "254733246274"; // 0733 246 274
+  var WA_NUMBER = "254724057052"; // 0724 057 052
 
   /* ---------- Preloader ---------- */
   window.addEventListener("load", function () {
