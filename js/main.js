@@ -6,18 +6,6 @@
 
   var WA_NUMBER = "254724057052"; // 0724 057 052
 
-  /* ---------- Preloader ---------- */
-  window.addEventListener("load", function () {
-    setTimeout(function () {
-      document.getElementById("preloader").classList.add("done");
-    }, 500);
-  });
-  // Failsafe: never trap the user behind the loader
-  setTimeout(function () {
-    var p = document.getElementById("preloader");
-    if (p) p.classList.add("done");
-  }, 3500);
-
   /* ---------- Navbar scroll state ---------- */
   var nav = document.querySelector(".navbar");
   function onScroll() {
